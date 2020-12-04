@@ -4,5 +4,4 @@ Children's Face Filter game using <a href="https://azure.microsoft.com/en-us/ser
 </a>plugin
 
 # How To Use
-
-
+Import The custom package in your project. **Note: mark allow unsafe codes in your player settings upon importing!**	
